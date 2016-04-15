@@ -1,4 +1,4 @@
-## Pull updated content to forked Repository:
+## Pull updated content from base to forked Repository:
 
   * git clone <forked_branch>
   * cd online-api/
