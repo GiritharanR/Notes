@@ -1,9 +1,9 @@
-Pull updated content to forked Repository:
+## Pull updated content to forked Repository:
 
-  * git clone https://github.com/GiritharanR/online-api.git
+  * git clone <forked_branch>
   * cd online-api/
   * git status
-  * git pull https://github.com/ConnectedHomes/online-api.git
+  * git pull <base_branch>
   * git status
   * git remote -v
   * git push origin
