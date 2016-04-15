@@ -1,9 +1,9 @@
 ## Pull updated content from base to forked Repository:
 
-  * git clone <forked_branch>
+  * git clone [forked_branch]
   * cd online-api/
   * git status
-  * git pull <base_branch>
+  * git pull [base_branch]
   * git status
   * git remote -v
   * git push origin
